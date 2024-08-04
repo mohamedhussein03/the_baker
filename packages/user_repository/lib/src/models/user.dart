@@ -1,6 +1,5 @@
-import '../entities/entities.dart';
 
-export 'user.dart';
+import '../entities/entities.dart';
 
 class MyUser {
   String userId;

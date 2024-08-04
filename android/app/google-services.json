@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573001484147",
+    "project_id": "bakery-shop-6c3cd",
+    "storage_bucket": "bakery-shop-6c3cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573001484147:android:2a815605a08e79326c6706",
+        "android_client_info": {
+          "package_name": "com.example.theBaker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnOAD-3I85uiwnyfluSRfQ8JIbPwHkQ5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
